@@ -40,3 +40,20 @@ h1 {
     border: 25px solid white;
     margin: 20px auto;
 }
+
+.footer {
+  text-align: center;
+  margin-top: 15px;
+  color: #000000;
+}
+
+.footer-link {
+  color: #FF5E5B;
+  font-weight: bold;
+  transition: all 0.2s;
+}
+
+.footer-link:hover {
+  color: #FFED66;
+  transition: all 0.2s;
+}

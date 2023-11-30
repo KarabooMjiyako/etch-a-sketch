@@ -4,7 +4,7 @@ Project to create something like Etch A Sketch toy using only HTML, CSS and Vani
 
 From The Odin Project's curriculum.
 
-#Technologies:
+Technologies:
 
 HTML
 CSS
